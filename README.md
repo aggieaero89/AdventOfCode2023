@@ -1,4 +1,4 @@
-# AdventOfCode2023
+# Advent of Code 2023
 Solving Advent of Code 2023 using Excel and VBA 8-)
 
 The puzzle (sample, part1, and or part2) inputs are copied into worksheets.
